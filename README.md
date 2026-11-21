@@ -1,2 +1,2 @@
 # Wind-Gust
-Created with CodeSandbox
+React animation inspired by nature
